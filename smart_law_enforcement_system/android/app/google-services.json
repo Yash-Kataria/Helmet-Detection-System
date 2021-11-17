@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "140187436892",
+    "project_id": "sles-project",
+    "storage_bucket": "sles-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140187436892:android:b68c445a742cb39fb4a399",
+        "android_client_info": {
+          "package_name": "com.example.smart_law_enforcement_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140187436892-pfk6m9lm22juuhp0nf3fpn6c11tn7k8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_law_enforcement_system",
+            "certificate_hash": "0e662c24d63200cff85e66489c099ebbc98cd82d"
+          }
+        },
+        {
+          "client_id": "140187436892-attog78ubip8tkfok4lrun8au89sddps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxUGnCRh6WpAsqRUDleDlj3duhjZe-7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140187436892-attog78ubip8tkfok4lrun8au89sddps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
